@@ -1,3 +1,4 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=joijo2001_Salesman1)](https://sonarcloud.io/summary/new_code?id=joijo2001_Salesman1)
 # Salesman1
 # Блочные тесты
 ## 
